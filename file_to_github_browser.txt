@@ -1,6 +1,5 @@
 This is a file test for gitbhub browser
 
-This line was wrote on GITHUB online.
+Here, I writting a new line.
 
-
-Hastag edited this line.
+This line is a good idea.
