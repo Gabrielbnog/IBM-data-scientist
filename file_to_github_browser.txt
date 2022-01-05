@@ -1,3 +1,5 @@
 This is a file test for gitbhub browser
 
 Here, I writting a new line.
+
+This line is a good idea.
