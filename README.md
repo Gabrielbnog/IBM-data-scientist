@@ -1,5 +1,3 @@
-# IBM-data-scientist
-Criando um repositório teste para utilização e aplicação no curso da IBM data scientist
-#Creating a repository test for a IBM data scientist course.
+Projetos
+#Python #SQL #Machine Learning #Análise Exploratória
 
-This is just a file test for initialize and learning new commands on github.
